@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.promo {
+  background-color: black;
+  color: whitesmoke;
+}
+
+/*no me toma el background color para todos, solo me la tomaba para el index*/
+.broke {
+  align-items: center;
+  margin-top: 0%;
+  padding: 0%;
+}
+
+footer {
+  background-color: black;
+  color: whitesmoke;
+}/*# sourceMappingURL=style.css.map */
